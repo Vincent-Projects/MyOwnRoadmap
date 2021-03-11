@@ -95,7 +95,7 @@ Here is some emojis you can find through this roadmap.
 
 <details><summary>:baby: Algorithms</summary>
 
-Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeeks.org) which is really awesome so if you want to know more and understand what you can learn in a CS degree check it out.
+Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeeks.org) which is really awesome so if you want to know more and understand what you can learn in a CS degree check it out. [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 -   :baby: Searching & Sorting
 -   :baby: Greedy Algorithms

@@ -23,6 +23,8 @@ Here is some emojis you can find through this roadmap.
 
 -   :+1: Binary & Bits
 -   :+1: Memory & Adresses
+-   :+1: Variables Types in Memory
+-   :+1: hexadecimal and decimal
 -   :grey_question: Von Neumann
 
 </details>
@@ -108,7 +110,7 @@ Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeek
 
 <details><summary>:baby: Backend</summary>
 
--   :baby: Networking Concepts
+-   :baby: <a href="./pages/backend/networking">Networking Concepts</a>
 -   :baby: Node.js
 -   :+1: Express
 -   :baby: SQL
@@ -123,11 +125,17 @@ Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeek
 -   :baby: Security
     -   :baby: OWASP top 10 risks
 -   :baby: Authorization & Authentication
+    -   :+1: JWT
+    -   :grey_question: Passort
+    -   :grey_question: AuthO
+    -   :grey_question: OAuth2.0
 -   :baby: API
     -   :+1: REST
+    -   :grey_question: SOAP
 -   :grey_question: Websocket & Socket.io
 -   :baby: Docker
 -   :baby: Kubernetes
+-   :grey_question: NGinx
 -   :grey_question: Caching
 -   :grey_question: Payment Integration
 -   :grey_question: CMS
@@ -140,6 +148,10 @@ Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeek
 -   :fire: <a href="./pages/frontend/HTML">HTML5</a>
 -   :+1: <a href="./pages/frontend/CSS">CSS3</a>
 -   :+1: Javascript for the Web
+-   :baby: jQuery
+-   :baby: Bootstrap
+-   :+1: <a href="./pages/frontend/react">React</a>
+-   :baby: Redux
 -   :baby: SEO
 -   :baby: Design
 
@@ -147,6 +159,8 @@ Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeek
 <details><summary>:baby: Testing</summary>
 
 -   :baby: Intro to testing
+-   :baby: Unit testing
+-   :grey_question: Integration Testing
 -   :baby: Javascript testing with Mocha
 -   :baby: Javascript testing using Chai
 -   :baby: Javascript Mocking with Sinon
@@ -190,6 +204,8 @@ Most of the topic choosen here are from [GeeksForGeeks](https://www.geeksforgeek
 -   :grey_question: SCRUM
 
 </details>
+
+-   <a href="./pages/quotes">Quote Area :smile:</a>
 
 <br/>
 

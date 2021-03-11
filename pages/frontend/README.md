@@ -12,7 +12,7 @@ Here will be a list of what i know in frontend part that are not covered in the 
 
 </details>
 
-<details><summary><a href="/HTML">HTML5</a></summary>
+<details><summary><a href="./HTML">HTML5</a></summary>
 
 </details>
 

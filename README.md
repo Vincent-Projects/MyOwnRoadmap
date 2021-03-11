@@ -55,7 +55,7 @@ This repository represent my own roadmap as a developer. I'll share what i learn
 <details><summary><a href="./pages/deeper-dive-master">Deeper Dive Language I Master</a></summary>
 
 -   <a href="./pages/deeper-dive-master/javascript">Javascript</a>
--   Ecmascript 2015+ features ( ES6 )
+-   <a href="./pages/deeper-dive-master/es6">Ecmascript 2015+ features ( ES6 )</a>
 
 </details>
 <details><summary>Versionning & Git</summary>

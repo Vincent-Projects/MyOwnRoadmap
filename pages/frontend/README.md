@@ -22,6 +22,9 @@ Here will be a list of what i know in frontend part that are not covered in the 
 
 <details><summary>Javascript for the web</summary>
 
+-   Event Bubbling
+-   Javascript Engine : ( V8 for chrome)
+
 </details>
 
 <details><summary>SEO</summary>

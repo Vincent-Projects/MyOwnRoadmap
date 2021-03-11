@@ -4,5 +4,6 @@ In this section i'll talk about the languages i master the most to give more det
 
 **Here what i'll cover**
 
--   Javascript
--   Ecmascript 2015+ ( ES6 )
+-   <a href="./javascript">Javascript</a>
+-   <a href="./es6">Ecmascript 2015+ ( ES6 )</a>
+-   Typescript ( still have to learn this )

@@ -50,12 +50,11 @@ This repository represent my own roadmap as a developer. I'll share what i learn
 -   C++
 -   Python
 -   PHP
--   Javascript
 
 </details>
-<details><summary>Deeper Dive Language I Master</summary>
+<details><summary><a href="./pages/deeper-dive-master">Deeper Dive Language I Master</a></summary>
 
--   Javascript
+-   <a href="./pages/deeper-dive-master/javascript">Javascript</a>
 -   Ecmascript 2015+ features ( ES6 )
 
 </details>
@@ -99,12 +98,12 @@ This repository represent my own roadmap as a developer. I'll share what i learn
 -   CMS
 
 </details>
-<details><summary>Frontend</summary>
+<details><summary><a href="./pages/frontend">Frontend</a></summary>
 
 -   How Browser Render Web Pages
 -   DOM
--   HTML5
--   CSS3
+-   <a href="./pages/frontend/HTML">HTML5</a>
+-   <a href="./pages/frontend/CSS">CSS3</a>
 -   Javascript for the Web
 -   SEO
 -   Design

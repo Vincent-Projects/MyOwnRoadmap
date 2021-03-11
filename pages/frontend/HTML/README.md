@@ -88,3 +88,4 @@ Here are the resouces that will explain this better.
 -   [Learn HTML - Javatpoint](https://www.javatpoint.com/html-tutorial)
 -   [TutorialPoint](https://www.tutorialspoint.com/html/index.htm)
 -   [HTML Standard - Whatwg](https://html.spec.whatwg.org/)
+-   [Traversy Media (Youtube)](https://www.youtube.com/watch?v=UB1O30fR-EE)

@@ -33,5 +33,6 @@ I'll keep that structure to explain each of the following commands.
 - ssh
 - kill
 - ps
+- tree
 
 </detail>

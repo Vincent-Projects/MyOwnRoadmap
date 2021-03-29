@@ -10,7 +10,7 @@ I'll keep that structure to explain each of the following commands.
 
 <detail><summary>**Linux Commands**</summary>
 
-- cd
+- <a href="linux-command/">cd</a>
 - mv
 - mkdir
 - rmdir

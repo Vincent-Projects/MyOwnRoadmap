@@ -4,7 +4,7 @@ Here will be all the knowledge i have about OS and Linux because it's the OS i u
 
 Here is a representation of the tree structure in linux and how i see it when i run commands.
 
-![Tree Structure Linux](../../assets/tree-structure.png)
+![Tree Structure Linux](../../assets/linux-commands/tree-structure.png)
 
 I'll keep that structure to explain each of the following commands.
 

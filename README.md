@@ -68,7 +68,7 @@ Here is some emojis you can find through this roadmap.
 
 - <a href="./pages/deeper-dive-master/javascript">:fire: Javascript</a>
 - <a href="./pages/deeper-dive-master/es6">:+1: Ecmascript 2015+ features ( ES6 )</a>
-- <a href="./pages/deeper-dive-master/typescript">:grey_question: Typescript</a>
+- <a href="./pages/deeper-dive-master/typescript">:baby: Typescript</a>
 </details>
 
 <details><summary>:+1: Versionning & Git</summary>

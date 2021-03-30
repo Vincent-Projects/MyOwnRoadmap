@@ -19,7 +19,6 @@ I'll keep that structure to explain each of the following commands.
 - rm
 - man
 - cp
-- mv
 - grep
 - awk
 - sed

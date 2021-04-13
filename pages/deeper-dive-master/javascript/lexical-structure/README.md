@@ -1,6 +1,12 @@
 # Lexical Structure
 
-## Unicode
+- Unicode
+- Semicolons
+- White Space
+- Case sensitive
+- Comments
+- Literals and Identifiers
+- Reserved Words
 
 ---
 

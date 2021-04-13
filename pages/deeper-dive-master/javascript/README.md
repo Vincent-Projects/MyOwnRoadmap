@@ -5,14 +5,14 @@ Here i'll cover javascript, one of my ( if not the ) favourite language. I'll tr
 -   Syntax
 -   Operators
 -   First Class Meaning
--   Types
+-   <a href="./Types">Types</a>
 -   Date
 -   Math
--   Array
+-   <a href="./arrays">Arrays</a>
 -   Object & Prototype
--   Scope
+-   <a href="./scope">Scope</a>
 -   Closures
--   Strict Mode
+-   <a href="./strict-mode">Strict Mode</a>
 -   Anonymous & Self-executing function
 -   Hoisting
 -   Coercion

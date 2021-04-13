@@ -58,16 +58,16 @@ Javascript:
 - <a href="../../deeper-dive-master/es6/arrow-function">Arrow Function</a>
 - <a href="../../deeper-dive-master/javascript/loops">Loops</a>
 - <a href="../../deeper-dive-master/javascript/scope">Scope</a>
-- <a href="../../deeper-dive-master/javascript/arrays">Arrays
-- <a href="../../deeper-dive-master/es6/template-literal">Template literal
-- <a href="../../deeper-dive-master/javascript/lexical-structure">Semicolons
-- <a href="../../deeper-dive-master/javascript/strict-mode">Strict Mode
-- <a href="../../deeper-dive-master/es6">ES6
+- <a href="../../deeper-dive-master/javascript/arrays">Arrays</a>
+- <a href="../../deeper-dive-master/es6/template-literal">Template literal</a>
+- <a href="../../deeper-dive-master/javascript/lexical-structure">Semicolons</a>
+- <a href="../../deeper-dive-master/javascript/strict-mode">Strict Mode</a>
+- <a href="../../deeper-dive-master/es6">ES6</a>
 
 Concepts:
-- <a href="../../deeper-dive-master/javascript/asynchronous">Asynchronous programming and callback
-- <a href="../../deeper-dive-master/javascript/timers">Timers
-- <a href="../../deeper-dive-master/es6/promises">Promises
-- <a href="../../deeper-dive-master/es6/promises">Async / Await
-- <a href="../../deeper-dive-master/javascript/closures">Closures
-- <a href="../../deeper-dive-master/javascript/event-loop">The Event Loop
+- <a href="../../deeper-dive-master/javascript/asynchronous">Asynchronous programming and callback</a>
+- <a href="../../deeper-dive-master/javascript/timers">Timers</a>
+- <a href="../../deeper-dive-master/es6/promises">Promises</a>
+- <a href="../../deeper-dive-master/es6/promises">Async / Await</a>
+- <a href="../../deeper-dive-master/javascript/closures">Closures</a>
+- <a href="../../deeper-dive-master/javascript/event-loop">The Event Loop</a>
